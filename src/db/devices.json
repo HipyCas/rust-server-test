@@ -1,0 +1,117 @@
+[
+  {
+    "id": 2,
+    "name": "Second",
+    "location": "8º5\"45'N 5º56\"7'O",
+    "status": 1,
+    "permissions": {
+      "url": {
+        "enabled": true,
+        "code": "ultjfj6bs64"
+      },
+      "people": [
+        {
+          "userId": 2,
+          "role": "view"
+        },
+        {
+          "userId": 3,
+          "role": "edit"
+        }
+      ],
+      "ownerId": 1
+    }
+  },
+  {
+    "id": 3,
+    "name": "Third",
+    "location": "8º5\"45'N 5º56\"7'O",
+    "status": 1,
+    "permissions": {
+      "url": {
+        "enabled": true,
+        "code": "ultjfj6bs64"
+      },
+      "people": [
+        {
+          "userId": 2,
+          "role": "view"
+        },
+        {
+          "userId": 3,
+          "role": "edit"
+        }
+      ],
+      "ownerId": 1
+    }
+  },
+  {
+    "id": 1,
+    "name": "First (modified!)",
+    "location": "8º5\"45'N 5º56\"7'O",
+    "status": 0,
+    "permissions": {
+      "url": {
+        "enabled": true,
+        "code": "ultjfj6bs64"
+      },
+      "people": [
+        {
+          "userId": 2,
+          "role": "view"
+        },
+        {
+          "userId": 3,
+          "role": "view"
+        },
+        {
+          "userId": 23,
+          "role": "edit"
+        }
+      ],
+      "ownerId": 1
+    }
+  },
+  {
+    "id": 100,
+    "name": "Create with API",
+    "location": "Somewhere special",
+    "status": 0,
+    "permissions": {
+      "url": {
+        "enabled": false,
+        "code": "ksjfienfds"
+      },
+      "people": [],
+      "ownerId": 2
+    }
+  },
+  {
+    "id": 101,
+    "name": "From form",
+    "location": "Awesome place - 1°N 1°W",
+    "status": 2,
+    "permissions": {
+      "url": {
+        "enabled": false,
+        "code": "safhie5"
+      },
+      "people": [],
+      "ownerId": 0
+    }
+  },
+  {
+    "id": 102,
+    "name": "lk",
+    "location": "aad - 1°N 1°W",
+    "status": 2,
+    "permissions": {
+      "url": {
+        "enabled": false,
+        "code": "safhie5"
+      },
+      "people": [],
+      "ownerId": 0
+    }
+  }
+]

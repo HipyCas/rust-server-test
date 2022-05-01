@@ -1,0 +1,1 @@
+/home/hipy/dev/prjs/be3/rust-server/migration/target/debug/libmigration.rlib: /home/hipy/dev/prjs/be3/rust-server/migration/src/lib.rs /home/hipy/dev/prjs/be3/rust-server/migration/src/m20220101_000001_create_table.rs

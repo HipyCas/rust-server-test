@@ -1,0 +1,6 @@
+[default]
+port = 9000
+# cli_colors = false < To properly see logs, you should use a utility that interprets the ANSI colors
+
+[default.databases.sea_orm]
+url = "sqlite://./be3.db"

@@ -1,0 +1,5 @@
+tab_spaces = 2
+reorder_imports = true
+reorder_modules = true
+# report_fixme = "Unnumbered"
+# report_todo = "Unnumbered"
